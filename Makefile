@@ -1,7 +1,7 @@
 # This is a generic makefile for libyuv for gcc.
 # make -f linux.mk CXX=clang++
 
-PREFIX:=/usr
+PREFIX:=/usr/local
 EXEC_PREFIX:=$(PREFIX)
 LIBDIR:=$(PREFIX)/lib/
 INCDIR:=$(PREFIX)/include/
